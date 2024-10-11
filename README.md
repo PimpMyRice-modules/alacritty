@@ -2,8 +2,8 @@
 
 PimpMyRice module for alacritty.
 
-## INSTALL
+## Set up
 
 ```bash
-pimp install module pimp://alacritty
+pimp clone module pimp://alacritty
 ```
