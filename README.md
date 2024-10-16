@@ -1,6 +1,6 @@
 # alacritty pimp-module
 
-PimpMyRice module for alacritty.
+[PimpMyRice](https://github.com/daddodev/pimpmyrice) module for alacritty.
 
 ## Set up
 
