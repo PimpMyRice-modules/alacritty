@@ -5,5 +5,5 @@
 ## Set up
 
 ```bash
-rice clone module pimp://alacritty
+pimp clone module pimp://alacritty
 ```
