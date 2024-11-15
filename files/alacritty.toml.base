@@ -38,5 +38,5 @@ mods = "Control|Shift"
 opacity = {{opacity.terminal}}
 
 [window.padding]
-x = {{padding.h}}
-y = {{padding.v}}
+x = {{padding.x}}
+y = {{padding.y}}
