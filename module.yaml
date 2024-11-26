@@ -1,2 +1,10 @@
+# yaml-language-server: $schema=../../.json_schemas/module.json
+
+os:
+  - linux
+  - windows
+  - mac
 run:
-    - file: '{{config_dir}}/alacritty/alacritty.toml'
+  - action: file
+    target: '{{config_dir}}/alacritty/alacritty.toml'
+    template: alacritty.toml.j2
