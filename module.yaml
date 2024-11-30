@@ -7,4 +7,3 @@ os:
 run:
   - action: file
     target: '{{config_dir}}/alacritty/alacritty.toml'
-    template: alacritty.toml.j2
